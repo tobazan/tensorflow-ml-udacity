@@ -4,6 +4,8 @@
 
 *Te goal of the program is to help us learn machine learning techniques, algorithms and models while creating a job-ready portfolio of completed projects*
 
+___
+
 ### FINDING DONORS
 
 **Apply supervised learning techniques on data collected for the US census to help CharityML (a fictitious charity organization) identify groups of people that are most likely to donate to their cause.**
@@ -14,6 +16,8 @@ To expand their potential donor base, CharityML has decided to send letters to r
 
 Your goal will be evaluate and optimize several different supervised learners to determine which algorithm will provide the highest donation yield while also reducing the total number of letters being sent.
 
+___
+
 ### IMAGE CLASSIFIER
 
 **Define and train a neural network in TensorFlow that learns to classify images; going from image data exploration to network training and evaluation**
@@ -21,6 +25,8 @@ Your goal will be evaluate and optimize several different supervised learners to
 Implementing an image classification application using a deep neural network. This application will train a deep learning model on a dataset of images. It will then use the trained model to classify new images. 
 
 You will develop your code in a Jupyter notebook to ensure your implementation works well. Key skills demonstrated include TensorFlow and neural networks, and model validation and evaluation. 
+
+___
 
 ### CUSTOMER SEGMENTATION
 
